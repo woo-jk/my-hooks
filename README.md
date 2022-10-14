@@ -1,5 +1,5 @@
 # hooks
 
-- [ ] useTitle
+- [x] useTitle
 - [x] useInput
 - [x] useTabs
