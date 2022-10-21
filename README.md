@@ -5,3 +5,4 @@
 - [x] useTabs
 - [x] useClick
 - [x] useHover
+- [x] useConfirm
