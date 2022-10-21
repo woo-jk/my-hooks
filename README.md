@@ -6,3 +6,4 @@
 - [x] useClick
 - [x] useHover
 - [x] useConfirm
+- [x] usePreventLeave
