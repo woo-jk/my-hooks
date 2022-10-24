@@ -8,3 +8,5 @@
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
+- [x] useFadeIn
+- [x] useNetwork
