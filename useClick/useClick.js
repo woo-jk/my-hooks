@@ -1,4 +1,4 @@
-const useClick = (onClick) => {
+export const useClick = (onClick) => {
   const ref = useRef();
   useEffect(() => {
     const element = ref.current;
